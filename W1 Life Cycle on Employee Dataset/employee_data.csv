@@ -1,0 +1,601 @@
+EmployeeID,FirstName,LastName,Gender,Age,City,Department,Education,Status,Salary,HireDate,PerformanceScore,YearsExperience,ProjectsCompleted,TrainingHours
+1,George,Davis,Male,28,Phoenix,Sales,Associate,Active,112820.44,2023-01-02,3.2,4,14,4
+2,Mary,Garcia,Non-binary,57,Houston,HR,PhD,Active,57866.33,2021-08-23,3.8,26,8,57
+3,Emily,Moore,Non-binary,39,Chicago,Sales,Master,Active,52880.14,2023-05-15,4.1,3,3,48
+4,Michael,Thompson,Female,51,San Jose,Operations,High School,On Leave,96666.23,2023-06-16,4.7,2,18,37
+5,George,Flores,Male,36,San Jose,Operations,High School,Active,123902.86,2018-06-13,4.4,13,4,48
+6,Sarah,Robinson,Female,39,Chicago,Operations,Bachelor,Active,115709.34,2021-10-31,3.6,5,18,31
+7,David,Robinson,Non-binary,42,Phoenix,IT,PhD,Active,131927.97,2022-05-09,1.2,1,11,51
+8,Sarah,Jones,Non-binary,53,San Jose,HR,Bachelor,Active,80497.67,2023-02-16,3.6,9,9,17
+9,Jessica,Mitchell,Female,45,San Jose,Finance,PhD,Active,60221.89,2018-10-11,3.0,2,2,14
+10,Barbara,Green,Non-binary,46,San Antonio,Marketing,High School,Active,103527.17,2020-08-16,3.1,17,1,14
+11,Carol,Wright,Male,32,Philadelphia,Finance,Bachelor,Active,87178.23,2023-05-08,3.9,4,17,22
+12,Steven,Miller,Non-binary,45,Dallas,Finance,Associate,Active,122688.74,2021-01-09,4.8,16,1,76
+13,Christopher,Young,Female,25,Los Angeles,Sales,Bachelor,Active,62700.23,2021-03-07,4.8,0,16,8
+14,Edward,Wright,Non-binary,32,Chicago,Marketing,Master,Inactive,65481.51,2022-11-22,3.4,3,18,25
+15,Amanda,Martin,Female,29,Philadelphia,IT,PhD,Active,63509.15,2018-05-12,2.4,3,19,28
+16,James,Jones,Male,26,Houston,Sales,High School,Active,94127.95,2019-07-25,3.7,1,18,16
+17,Brian,Torres,Female,28,Houston,Legal,Master,Active,46147.04,2020-06-01,2.4,3,15,6
+18,Carol,Adams,Female,37,New York,Engineering,Bachelor,Active,57032.86,2021-01-03,2.8,13,6,35
+19,Sandra,Thomas,Non-binary,56,San Diego,Engineering,High School,Active,131143.17,2023-06-08,1.4,15,6,52
+20,Ashley,Walker,Male,22,San Antonio,HR,Associate,Active,148310.52,2019-06-28,4.7,0,10,54
+21,Kevin,Campbell,Male,25,Chicago,Legal,Bachelor,Active,101605.73,2021-01-15,1.2,2,2,6
+22,Emily,Walker,Non-binary,26,New York,Marketing,High School,Active,103429.04,2021-10-14,4.4,3,4,72
+23,Jessica,Nguyen,Male,59,San Jose,Sales,Master,On Leave,100001.1,2019-10-10,4.7,13,11,30
+24,Thomas,Sanchez,Female,22,Phoenix,Marketing,Bachelor,Active,87702.84,2021-02-27,5.0,0,18,27
+25,Steven,Taylor,Male,40,Philadelphia,Marketing,Associate,Active,53140.89,2022-09-04,3.2,9,20,67
+26,James,Nelson,Male,28,Los Angeles,Finance,Bachelor,Active,120377.92,2018-11-15,2.1,4,7,43
+27,Susan,Baker,Female,27,Dallas,Finance,Bachelor,Active,107942.71,2022-08-26,2.1,0,11,16
+28,George,Taylor,Non-binary,22,San Diego,Marketing,Master,Inactive,47865.5,2023-04-20,4.5,0,18,4
+29,Nancy,Nguyen,Male,45,San Antonio,Marketing,High School,Active,138382.87,2022-06-19,4.9,1,12,26
+30,Carol,Thomas,Non-binary,31,Philadelphia,Engineering,Master,Inactive,141462.84,2019-04-30,4.5,2,14,3
+31,Elizabeth,Mitchell,Non-binary,32,San Antonio,Operations,Associate,Active,125548.07,2018-08-10,2.5,0,16,28
+32,Richard,Robinson,Male,34,Phoenix,Operations,Associate,Active,80823.59,2019-07-25,4.5,12,9,44
+33,Michelle,Allen,Female,38,Dallas,IT,High School,Active,55535.3,2023-05-26,4.9,1,4,76
+34,Dorothy,Thompson,Non-binary,46,San Antonio,Operations,PhD,Active,138443.04,2019-01-25,2.0,22,14,0
+35,Dorothy,Wright,Female,43,Philadelphia,HR,High School,On Leave,106662.87,2021-09-20,4.4,9,17,39
+36,Joshua,Clark,Non-binary,30,San Antonio,Operations,Bachelor,Inactive,57061.61,2021-09-23,4.8,2,20,72
+37,Karen,Sanchez,Female,59,Phoenix,Sales,Associate,Active,104766.08,2019-10-22,2.9,28,7,65
+38,Donald,Mitchell,Female,62,Los Angeles,Marketing,PhD,On Leave,106214.99,2018-07-11,4.3,15,10,28
+39,Richard,Martinez,Male,26,New York,Sales,Master,Inactive,87372.86,2022-12-20,3.5,1,13,63
+40,Betty,Thomas,Male,33,New York,Marketing,Master,Active,127472.63,2021-11-26,3.1,0,18,31
+41,Linda,Robinson,Non-binary,60,San Diego,Marketing,PhD,Inactive,71489.27,2022-03-27,4.6,32,14,70
+42,Mark,Hernandez,Female,39,San Diego,Legal,Associate,On Leave,123068.57,2020-12-03,2.9,7,9,56
+43,Robert,Rivera,Female,56,Houston,Finance,Bachelor,Active,44266.43,2018-11-05,1.9,9,7,8
+44,Anthony,Clark,Female,35,Dallas,Operations,Master,Active,130782.48,2020-03-08,4.6,9,1,73
+45,Matthew,Walker,Female,56,Philadelphia,Sales,Master,Active,120964.3,2021-01-23,4.2,14,16,28
+46,Sarah,Ramirez,Female,47,New York,Legal,Bachelor,On Leave,118280.86,2022-09-18,2.9,4,20,68
+47,Mary,Sanchez,Non-binary,51,Los Angeles,Sales,Master,Active,55898.84,2019-06-17,2.5,6,15,41
+48,Lisa,Carter,Female,52,Phoenix,IT,Bachelor,Active,37229.08,2021-01-09,1.2,30,12,28
+49,Michelle,Jones,Male,61,New York,Sales,Associate,Active,52523.97,2018-09-16,2.9,7,19,27
+50,Sandra,Hall,Male,29,Philadelphia,Finance,PhD,Inactive,124446.07,2018-12-02,4.9,1,19,3
+51,Karen,Torres,Non-binary,59,San Antonio,IT,Associate,Active,114420.66,2021-07-08,2.0,19,20,15
+52,Andrew,Williams,Female,54,Dallas,Operations,Bachelor,Active,109467.47,2018-01-26,4.4,31,4,55
+53,Nancy,Green,Female,55,Chicago,Legal,Associate,On Leave,146029.48,2019-07-08,3.5,30,15,55
+54,Brian,Nguyen,Male,50,Philadelphia,Finance,High School,Active,63044.3,2020-08-09,3.3,21,13,43
+55,Mary,Young,Female,38,Chicago,Operations,Associate,Active,74138.97,2022-12-08,3.4,8,18,1
+56,Dorothy,Gonzalez,Non-binary,57,Houston,Engineering,Master,Active,122188.94,2021-11-15,2.9,31,15,2
+57,Jennifer,Jackson,Non-binary,59,San Antonio,HR,Associate,Active,77437.35,2021-02-07,3.1,27,18,42
+58,Daniel,Hall,Female,29,Phoenix,Legal,Bachelor,Active,117947.7,2019-10-09,1.5,2,7,27
+59,Melissa,Walker,Non-binary,28,San Jose,Finance,PhD,Active,130752.26,2019-08-30,1.9,1,10,1
+60,Amanda,Wright,Male,40,Phoenix,Marketing,High School,Inactive,115203.0,2018-09-16,3.6,15,4,1
+61,Andrew,Jackson,Female,25,San Diego,Legal,Bachelor,Active,64035.01,2022-10-31,2.9,0,13,62
+62,Robert,Torres,Male,27,Chicago,Sales,PhD,Active,149300.58,2018-08-31,3.2,3,20,76
+63,Donna,Anderson,Female,49,San Diego,IT,Bachelor,Inactive,70118.73,2021-06-25,1.2,23,4,26
+64,George,Wilson,Male,57,Los Angeles,Finance,Associate,Active,43632.46,2018-01-06,2.6,30,10,4
+65,Joseph,Jackson,Male,62,San Diego,Finance,Associate,Active,102825.8,2022-07-05,4.7,27,4,69
+66,Joseph,Adams,Male,32,Phoenix,Marketing,High School,Active,126152.29,2021-05-03,4.0,9,10,56
+67,Linda,Robinson,Female,53,San Antonio,Finance,PhD,Inactive,85342.27,2021-05-09,1.2,27,11,77
+68,Thomas,Johnson,Non-binary,23,Houston,Engineering,PhD,Inactive,149950.83,2021-10-08,4.3,0,6,60
+69,Dorothy,Adams,Male,62,Phoenix,Legal,PhD,Active,128638.17,2023-06-08,1.4,22,14,42
+70,Christopher,Nelson,Female,53,Chicago,Engineering,Master,On Leave,68145.05,2023-04-20,2.6,2,15,11
+71,Christopher,Taylor,Female,56,Los Angeles,Operations,PhD,Active,88127.28,2018-04-22,1.8,23,20,63
+72,George,Lewis,Female,40,Houston,Sales,PhD,Active,85383.35,2021-12-01,2.9,0,20,30
+73,Amanda,Hernandez,Male,27,Dallas,Finance,PhD,Active,60840.58,2022-09-20,4.7,3,4,19
+74,Ashley,Rivera,Non-binary,52,Dallas,Finance,Bachelor,Active,147728.13,2019-05-15,2.8,4,13,24
+75,Kenneth,Allen,Female,54,Los Angeles,Marketing,Master,Active,65724.86,2018-01-06,2.1,19,19,74
+76,Joshua,Young,Non-binary,43,San Diego,Marketing,Master,Active,98470.5,2021-01-17,2.5,10,7,30
+77,Andrew,Harris,Male,52,San Antonio,HR,Bachelor,On Leave,116101.21,2022-07-20,2.5,21,5,63
+78,John,Rodriguez,Female,51,Los Angeles,Operations,High School,Inactive,36764.97,2018-10-23,2.6,20,5,9
+79,Donald,Taylor,Non-binary,27,San Jose,Operations,Master,On Leave,132953.01,2022-10-12,3.7,4,13,40
+80,George,Rivera,Male,37,Dallas,Legal,PhD,Active,107583.52,2023-03-02,2.1,7,3,55
+81,Michael,Carter,Male,24,San Diego,Engineering,Bachelor,Active,72303.09,2018-04-25,2.2,1,14,18
+82,Jessica,King,Non-binary,33,San Jose,IT,Associate,Active,44081.36,2022-11-19,2.5,10,8,63
+83,Emily,Martinez,Non-binary,38,San Diego,HR,Bachelor,Active,111686.68,2023-01-15,4.2,9,18,20
+84,Robert,Lewis,Female,38,San Jose,Operations,Master,On Leave,87536.12,2019-09-11,1.8,12,16,13
+85,Jessica,Harris,Female,47,San Jose,Operations,Bachelor,Active,66565.24,2021-03-05,4.5,24,2,77
+86,Melissa,Young,Non-binary,62,Houston,Finance,Bachelor,Active,56865.18,2019-05-29,3.7,8,4,80
+87,Michelle,Williams,Male,30,San Diego,Finance,PhD,Active,45365.34,2019-08-28,2.3,6,6,25
+88,William,Wright,Non-binary,38,Dallas,Operations,Bachelor,Active,140115.63,2023-04-18,2.9,9,11,14
+89,Sandra,Jones,Non-binary,45,Houston,Marketing,Master,Inactive,45384.83,2020-03-19,1.1,17,4,58
+90,Nancy,Baker,Female,36,San Jose,Finance,Bachelor,Active,89219.84,2021-06-22,4.5,8,11,78
+91,Joseph,Adams,Non-binary,48,San Diego,Engineering,Bachelor,On Leave,48417.73,2018-04-03,4.8,9,16,14
+92,Michael,Thomas,Female,56,San Antonio,Marketing,Bachelor,On Leave,83199.58,2022-03-01,3.9,26,4,62
+93,Donna,Clark,Non-binary,50,New York,Finance,Bachelor,Active,86140.02,2019-04-29,4.4,3,12,69
+94,Michelle,Thompson,Female,51,San Antonio,Sales,Associate,Active,45542.44,2019-03-11,3.6,19,1,6
+95,Lisa,Thomas,Male,35,San Jose,Marketing,High School,Inactive,102434.05,2022-07-24,4.5,5,5,76
+96,James,Moore,Non-binary,29,Chicago,Marketing,Bachelor,Active,111021.63,2018-02-22,1.5,5,8,75
+97,Christopher,Johnson,Male,48,Phoenix,Marketing,Associate,On Leave,95499.84,2022-03-08,1.3,14,12,65
+98,Emily,Miller,Male,55,Dallas,Legal,PhD,Active,69687.49,2021-08-10,4.9,3,16,51
+99,Dorothy,Baker,Non-binary,27,San Diego,Engineering,Master,Active,72042.86,2018-10-31,1.3,2,20,74
+100,Kimberly,Rivera,Non-binary,51,San Antonio,Operations,PhD,Active,93138.37,2020-05-31,1.4,22,4,70
+101,Brian,Wilson,Male,51,San Diego,IT,Master,Active,80853.97,2022-02-03,1.4,13,11,32
+102,Nancy,Martinez,Male,49,Los Angeles,Legal,High School,Active,46104.91,2022-02-22,2.5,4,18,7
+103,Emily,Scott,Female,49,Los Angeles,Operations,Bachelor,On Leave,134830.6,2022-01-16,1.2,9,20,39
+104,Daniel,Miller,Non-binary,28,Chicago,HR,Master,Active,75263.11,2021-02-13,2.5,6,9,73
+105,Joseph,Ramirez,Non-binary,33,San Jose,Sales,Bachelor,Active,66426.09,2022-04-11,2.2,5,12,0
+106,Elizabeth,Martinez,Male,55,Los Angeles,IT,High School,Active,59740.28,2020-05-09,2.8,10,12,39
+107,Brian,Lee,Male,25,New York,Engineering,Associate,Inactive,112506.4,2019-07-12,2.8,3,16,77
+108,Mark,Clark,Non-binary,49,Houston,Finance,High School,Active,47752.32,2021-10-20,3.7,15,17,39
+109,John,Anderson,Male,41,San Jose,IT,High School,Active,143712.27,2022-04-21,1.5,8,10,41
+110,Linda,Smith,Male,56,San Antonio,Legal,Associate,Active,115922.2,2020-10-21,3.2,22,3,50
+111,Melissa,Williams,Female,58,New York,IT,High School,Active,84367.69,2020-04-08,3.8,26,10,14
+112,Betty,Johnson,Non-binary,45,Chicago,Operations,Master,On Leave,45134.94,2022-09-26,1.4,13,19,51
+113,Dorothy,Garcia,Non-binary,43,Phoenix,IT,Bachelor,Active,124598.55,2018-06-06,3.0,3,17,65
+114,Richard,Roberts,Non-binary,28,Philadelphia,Operations,Associate,Active,51841.09,2019-02-09,1.7,1,3,22
+115,Deborah,Green,Non-binary,58,San Diego,Legal,PhD,Active,108944.06,2021-07-03,2.3,20,5,56
+116,Robert,Walker,Female,44,Phoenix,Legal,PhD,Active,93343.74,2019-09-28,2.8,1,2,47
+117,Charles,Jones,Non-binary,51,San Jose,Engineering,PhD,Active,101737.88,2023-05-09,4.2,28,2,57
+118,Andrew,Adams,Non-binary,31,Philadelphia,HR,Master,Inactive,145138.07,2020-07-11,1.4,5,3,64
+119,Michelle,Lopez,Non-binary,55,Houston,Sales,Master,Active,95116.02,2018-11-22,2.5,18,13,52
+120,Deborah,Perez,Male,57,Philadelphia,Sales,Bachelor,Active,113013.62,2019-08-05,2.0,9,11,10
+121,Emily,Nelson,Female,60,Philadelphia,Marketing,Master,Active,116515.91,2018-06-23,2.2,24,11,16
+122,Joshua,Hall,Non-binary,45,San Antonio,Engineering,Bachelor,Active,70519.6,2023-05-02,1.9,15,7,28
+123,William,Martinez,Male,55,Phoenix,Engineering,PhD,Inactive,39340.96,2019-11-21,4.5,8,20,48
+124,Barbara,Hernandez,Male,48,San Jose,Marketing,Master,Active,76894.43,2022-01-13,2.0,14,20,36
+125,Edward,Mitchell,Non-binary,52,Houston,Legal,Associate,Active,138957.05,2019-02-02,2.5,30,19,56
+126,Sandra,Roberts,Non-binary,32,San Antonio,Finance,PhD,Active,128942.49,2022-06-29,3.4,4,2,61
+127,Nancy,Scott,Male,32,Dallas,Engineering,Bachelor,Active,66371.0,2023-01-29,3.1,6,3,28
+128,Mark,Thompson,Male,45,San Antonio,Sales,Master,Inactive,62114.48,2018-06-17,2.5,0,11,12
+129,Amanda,Adams,Male,52,Chicago,Operations,High School,Active,115048.28,2018-10-12,4.0,15,15,78
+130,James,Garcia,Male,60,Phoenix,Sales,Associate,Inactive,95693.72,2018-08-16,4.1,15,10,15
+131,Patricia,Thomas,Female,53,San Jose,IT,High School,Active,103624.99,2018-02-03,3.5,15,5,37
+132,Dorothy,Smith,Non-binary,27,Houston,Operations,Master,Active,95200.72,2020-01-09,1.3,4,18,64
+133,Steven,Scott,Female,46,San Antonio,Sales,High School,On Leave,147819.53,2019-06-04,4.0,11,3,44
+134,Jessica,Campbell,Non-binary,24,San Jose,Engineering,Bachelor,Active,75514.39,2019-11-25,4.3,0,15,61
+135,George,Lopez,Non-binary,40,Los Angeles,Marketing,Master,Active,58182.96,2022-06-09,1.8,1,11,39
+136,Steven,Sanchez,Male,44,Phoenix,Legal,Associate,Active,134145.93,2018-04-08,4.5,10,9,15
+137,Nancy,Ramirez,Female,53,San Diego,IT,Bachelor,Active,114587.88,2020-01-23,4.7,17,3,54
+138,Jennifer,Ramirez,Female,27,Dallas,Marketing,Bachelor,Active,72710.79,2019-08-29,2.2,4,14,21
+139,Kevin,Lewis,Male,49,San Diego,Operations,Bachelor,Inactive,66573.87,2022-06-09,4.8,2,13,46
+140,Steven,Mitchell,Male,50,New York,Marketing,PhD,On Leave,39001.88,2018-05-18,1.9,20,12,46
+141,Matthew,Torres,Male,45,San Jose,Sales,Master,Active,86053.02,2018-06-07,3.3,16,12,50
+142,Christopher,Adams,Male,33,Houston,Finance,High School,On Leave,92390.06,2020-03-03,4.7,1,9,33
+143,Amanda,Lewis,Female,29,San Jose,HR,Master,Active,50608.77,2018-06-01,2.8,7,3,40
+144,Joshua,Thompson,Non-binary,32,Dallas,Engineering,Bachelor,Active,116858.05,2023-03-15,3.8,2,12,65
+145,Joseph,Davis,Male,45,Chicago,HR,Master,Active,98712.47,2020-01-26,2.9,17,5,78
+146,Jennifer,Jones,Non-binary,48,San Antonio,Finance,Master,Inactive,123453.92,2022-08-14,3.3,4,11,9
+147,Mark,Robinson,Non-binary,30,Chicago,Operations,PhD,Active,84751.1,2023-02-09,4.5,1,17,19
+148,Karen,Hernandez,Non-binary,55,Philadelphia,Marketing,Associate,Active,137916.48,2022-09-29,1.3,12,18,35
+149,William,Green,Non-binary,32,San Jose,Finance,High School,Inactive,103057.97,2021-04-04,1.6,10,20,77
+150,Lisa,Torres,Male,58,New York,Sales,High School,On Leave,65435.43,2019-03-08,4.1,26,20,3
+151,Ashley,Green,Female,47,Phoenix,Finance,Associate,On Leave,69204.9,2018-05-30,3.8,5,15,53
+152,Donald,Robinson,Non-binary,42,Philadelphia,HR,Associate,Active,119432.97,2022-10-29,2.4,12,5,47
+153,Steven,Scott,Male,39,Philadelphia,Engineering,Master,Active,86703.54,2018-10-16,1.4,9,13,78
+154,Anthony,Thomas,Non-binary,32,Philadelphia,Marketing,Bachelor,Active,92300.54,2020-11-20,2.9,4,16,2
+155,Jennifer,Sanchez,Male,25,Houston,Legal,PhD,Active,40812.15,2020-10-10,3.4,3,10,68
+156,James,Miller,Female,45,Chicago,IT,Bachelor,Active,40202.88,2018-04-15,3.3,6,12,70
+157,Charles,Jones,Female,61,Dallas,IT,PhD,Active,113245.84,2018-09-01,1.5,6,13,47
+158,Lisa,Scott,Male,47,Chicago,Operations,PhD,Inactive,92508.96,2018-04-03,1.2,22,11,60
+159,Dorothy,Robinson,Non-binary,61,San Jose,Marketing,Associate,Active,71630.95,2020-03-15,5.0,19,19,43
+160,Steven,Allen,Female,45,San Jose,Legal,Master,Active,73092.55,2018-08-13,4.9,18,10,80
+161,Mary,Hill,Non-binary,36,Phoenix,Legal,PhD,Inactive,117961.01,2021-04-10,2.9,8,20,48
+162,Barbara,Baker,Non-binary,23,New York,HR,High School,Active,85719.44,2020-05-07,1.6,0,14,64
+163,Deborah,Flores,Non-binary,35,New York,Legal,Associate,Inactive,99501.98,2021-09-18,2.9,6,11,22
+164,Sandra,Wright,Female,52,Dallas,Operations,Bachelor,Inactive,57110.38,2019-05-20,2.1,9,8,38
+165,Deborah,Jackson,Female,57,San Diego,HR,Master,Active,142375.54,2022-06-17,3.9,18,4,73
+166,Carol,Wright,Female,24,San Antonio,IT,Associate,Active,68077.49,2022-01-02,1.3,1,9,61
+167,Susan,Gonzalez,Non-binary,28,Dallas,Finance,Bachelor,Active,105802.86,2021-04-16,2.0,0,17,28
+168,George,Anderson,Female,52,Los Angeles,Sales,Bachelor,On Leave,46562.66,2022-04-28,1.5,30,18,20
+169,Anthony,Adams,Non-binary,42,San Diego,Legal,Associate,Active,67822.76,2018-05-02,4.6,2,19,29
+170,Paul,Mitchell,Female,47,Chicago,Sales,Associate,Active,125615.47,2019-01-17,4.7,9,2,1
+171,Karen,Torres,Female,56,Philadelphia,Engineering,Master,On Leave,95296.63,2022-12-27,4.8,32,15,34
+172,Richard,Davis,Non-binary,38,Chicago,Operations,Master,On Leave,117638.79,2018-01-29,3.9,9,19,24
+173,Elizabeth,Flores,Non-binary,47,San Antonio,IT,Bachelor,Active,111964.42,2019-01-14,4.9,15,11,31
+174,James,Taylor,Female,41,Houston,IT,Bachelor,Active,101982.99,2021-03-19,1.0,11,8,7
+175,Joshua,Davis,Male,54,Phoenix,Legal,Master,On Leave,141157.19,2022-12-24,3.8,19,4,37
+176,Nancy,Flores,Male,51,Houston,HR,Master,Active,120989.51,2021-05-25,2.5,22,18,60
+177,Edward,Wright,Non-binary,55,Houston,HR,PhD,Active,86376.02,2021-12-12,2.4,7,2,70
+178,Steven,Gonzalez,Female,29,Chicago,Marketing,PhD,Active,113233.95,2022-01-08,3.3,1,17,57
+179,Patricia,Robinson,Female,25,Dallas,Marketing,Master,Inactive,99261.68,2021-10-09,4.2,0,13,32
+180,James,Mitchell,Male,44,San Jose,HR,High School,Active,115544.26,2021-01-13,5.0,2,16,4
+181,Charles,Clark,Non-binary,46,Chicago,Marketing,Master,Active,86581.77,2023-02-22,4.6,12,3,69
+182,William,Adams,Male,55,Los Angeles,Operations,PhD,Active,49644.92,2019-04-02,4.3,1,10,59
+183,Carol,Campbell,Female,51,Dallas,IT,Associate,Active,74808.37,2019-07-19,1.8,28,4,4
+184,Joshua,Clark,Male,60,Houston,Sales,High School,Active,38861.27,2021-05-09,3.7,3,8,5
+185,Betty,Lewis,Male,54,Dallas,HR,High School,Active,149250.6,2019-04-25,4.3,20,19,76
+186,Deborah,Baker,Female,55,Houston,Operations,Associate,On Leave,60419.92,2019-09-08,2.1,11,14,71
+187,Ashley,Brown,Non-binary,48,San Antonio,Operations,Bachelor,On Leave,81949.81,2019-09-07,2.5,24,18,60
+188,Jessica,Anderson,Female,48,Chicago,Finance,High School,Inactive,146295.41,2021-02-15,3.1,12,8,32
+189,Susan,Perez,Female,34,San Diego,Engineering,High School,Inactive,40926.71,2020-02-12,3.7,9,2,9
+190,Richard,Carter,Male,22,San Diego,HR,Bachelor,Active,59357.89,2019-01-25,4.8,0,16,31
+191,Kevin,Hill,Male,40,San Antonio,HR,PhD,Active,78776.1,2020-12-28,3.6,9,9,46
+192,Steven,Young,Non-binary,35,Los Angeles,Legal,Master,Active,77631.07,2020-04-27,1.2,13,8,18
+193,Mary,Taylor,Male,36,Phoenix,IT,Associate,Active,78681.57,2022-09-03,2.0,8,11,32
+194,Edward,Young,Male,30,San Diego,Legal,Bachelor,Active,117836.06,2020-09-27,1.7,8,2,67
+195,John,Jones,Female,36,New York,Sales,Associate,On Leave,42816.31,2018-11-06,1.0,8,15,47
+196,Patricia,Flores,Male,57,San Diego,Legal,High School,Inactive,82303.93,2018-02-04,3.1,17,18,36
+197,Mary,Allen,Male,31,Chicago,IT,High School,Inactive,62711.42,2021-06-23,3.1,5,9,50
+198,Jennifer,White,Non-binary,36,San Diego,IT,Associate,On Leave,69497.08,2022-08-23,4.4,10,2,11
+199,Betty,Harris,Female,22,Dallas,IT,High School,On Leave,115827.19,2018-06-19,3.0,0,11,72
+200,Michael,King,Male,39,Houston,Sales,PhD,Active,40354.63,2018-06-02,3.7,8,18,72
+201,Joshua,Williams,Male,31,Philadelphia,Marketing,Associate,Inactive,121509.26,2021-12-30,4.3,1,10,20
+202,Andrew,Thomas,Female,30,Dallas,IT,Master,On Leave,125907.28,2021-11-12,3.9,8,12,6
+203,Michael,Ramirez,Female,60,Los Angeles,HR,PhD,Inactive,80620.85,2022-05-04,2.3,17,15,62
+204,Joseph,Thompson,Male,46,San Antonio,IT,PhD,On Leave,44854.82,2021-06-20,2.2,7,3,10
+205,Sarah,Martinez,Non-binary,45,Chicago,IT,Master,Active,47253.36,2018-01-11,4.8,14,12,34
+206,Michael,Rodriguez,Female,57,Chicago,Engineering,Master,Inactive,93930.7,2018-07-31,1.1,22,18,11
+207,Kenneth,Hill,Male,46,San Antonio,Operations,Bachelor,Active,124604.45,2022-01-24,4.6,7,19,66
+208,David,Baker,Male,39,Chicago,IT,Bachelor,Active,91709.25,2018-05-10,1.7,8,14,38
+209,Donald,Jones,Male,61,Phoenix,Operations,Master,Inactive,57488.05,2018-08-08,1.5,0,13,42
+210,Donna,Harris,Female,60,San Diego,Operations,Master,On Leave,50654.31,2019-10-19,3.4,12,16,40
+211,Elizabeth,Sanchez,Non-binary,37,Phoenix,Operations,Master,Inactive,72476.92,2019-07-29,4.3,12,12,14
+212,Andrew,Gonzalez,Male,35,Dallas,Marketing,Master,On Leave,85422.32,2019-08-20,4.3,1,14,63
+213,William,Green,Female,49,Houston,Finance,Associate,On Leave,125743.83,2018-06-01,2.8,19,16,74
+214,Betty,Wright,Male,56,Dallas,IT,Bachelor,On Leave,103289.29,2023-02-16,1.3,15,12,21
+215,Michelle,Flores,Non-binary,49,San Jose,Sales,Master,Active,47183.62,2018-07-21,2.0,16,17,71
+216,Emily,Hall,Female,59,San Diego,HR,Master,Active,114400.29,2018-11-05,2.4,1,16,13
+217,Charles,Clark,Non-binary,41,Los Angeles,Engineering,Associate,Active,74452.67,2022-05-26,1.8,15,12,60
+218,Michael,Lewis,Male,29,Philadelphia,Legal,Bachelor,Active,37597.29,2019-12-04,3.6,2,8,66
+219,Elizabeth,Scott,Non-binary,36,Philadelphia,Marketing,Master,Active,126741.92,2021-07-13,1.7,10,14,50
+220,Mary,Mitchell,Non-binary,22,San Diego,HR,Master,Active,116044.6,2019-02-26,2.1,0,19,13
+221,Paul,Lopez,Male,38,Philadelphia,Operations,Master,Active,112130.66,2020-09-29,3.1,10,20,49
+222,Donna,Sanchez,Female,33,Philadelphia,Engineering,Master,Inactive,128579.9,2021-12-16,4.2,9,19,10
+223,Carol,Rodriguez,Male,33,Los Angeles,Operations,Bachelor,Active,77930.2,2018-10-17,3.0,6,20,17
+224,Andrew,Harris,Female,33,Chicago,IT,PhD,On Leave,98814.95,2020-09-29,2.2,2,11,57
+225,Donna,Brown,Female,46,New York,Operations,Associate,Active,145840.35,2020-11-01,3.6,13,16,53
+226,Amanda,Lewis,Male,36,Chicago,Legal,PhD,Active,68590.34,2019-07-17,1.9,4,6,58
+227,Andrew,Mitchell,Non-binary,29,Dallas,Legal,High School,Inactive,65807.22,2021-01-17,4.3,5,18,5
+228,Edward,Campbell,Male,37,Dallas,Legal,Master,Active,69236.53,2018-03-08,2.8,11,3,56
+229,Linda,Roberts,Non-binary,44,Houston,HR,PhD,On Leave,134020.6,2021-06-03,3.5,5,20,17
+230,Susan,Wilson,Female,60,San Jose,Sales,PhD,Active,96958.38,2019-10-25,4.9,18,10,73
+231,Sarah,Allen,Female,30,Chicago,Engineering,High School,Active,115664.05,2018-09-29,2.0,5,8,50
+232,Ashley,Martinez,Female,62,San Antonio,Finance,Master,Active,126378.84,2022-04-24,1.4,32,9,47
+233,Sandra,Young,Male,51,San Jose,Operations,High School,On Leave,108006.66,2021-11-29,2.4,2,18,50
+234,Susan,Ramirez,Female,43,San Diego,HR,Bachelor,Active,97940.71,2018-09-25,3.3,15,11,6
+235,John,Miller,Male,51,New York,Legal,Associate,Active,35077.73,2023-05-17,2.7,22,5,38
+236,David,Moore,Female,32,Philadelphia,Engineering,High School,Active,40955.54,2021-07-05,2.2,3,14,11
+237,Amanda,Miller,Female,59,Houston,Sales,High School,Active,61011.95,2021-10-24,2.8,0,11,15
+238,Dorothy,Hall,Male,27,San Diego,Marketing,Associate,Active,119037.79,2018-07-29,1.4,2,10,17
+239,Matthew,Roberts,Male,22,Chicago,Marketing,PhD,Inactive,105186.71,2018-12-03,2.8,0,5,52
+240,Donna,Baker,Male,29,Houston,Legal,High School,Active,102801.0,2020-02-26,2.4,6,11,17
+241,Jessica,Moore,Non-binary,60,Houston,Engineering,PhD,Inactive,67765.89,2023-04-12,3.8,19,7,66
+242,Kenneth,Allen,Female,53,San Antonio,HR,High School,Active,79376.84,2019-05-09,3.0,4,17,1
+243,Nancy,Lee,Non-binary,56,San Antonio,Marketing,Master,Active,113538.34,2022-04-12,2.9,4,1,75
+244,Robert,Smith,Male,54,Houston,Finance,High School,Active,67946.1,2021-12-30,3.0,26,14,51
+245,Jennifer,Green,Male,54,Phoenix,Marketing,Bachelor,Active,140906.36,2023-06-19,4.2,20,13,75
+246,George,Carter,Non-binary,37,Phoenix,Engineering,Master,On Leave,41659.18,2018-06-26,4.7,3,15,78
+247,Kenneth,Brown,Male,30,Chicago,Finance,High School,On Leave,115672.46,2018-12-02,3.0,5,17,66
+248,Brian,Taylor,Male,29,Philadelphia,Marketing,Bachelor,On Leave,123714.48,2018-03-02,2.3,6,9,67
+249,Robert,Taylor,Female,25,San Diego,Engineering,PhD,Active,92455.15,2021-03-06,1.7,1,9,13
+250,Andrew,Baker,Non-binary,24,Houston,Engineering,PhD,Active,133749.24,2018-01-26,2.0,1,12,49
+251,Barbara,Lopez,Non-binary,42,Dallas,Sales,Master,Active,63550.27,2023-02-19,3.9,8,3,73
+252,Nancy,Davis,Male,47,Chicago,Sales,PhD,Active,42926.54,2020-08-10,4.5,24,10,41
+253,Jennifer,Scott,Female,58,New York,Legal,Associate,Active,125218.33,2022-02-23,3.5,29,12,75
+254,Ashley,Roberts,Male,48,Dallas,HR,Associate,Active,37749.68,2021-01-14,2.4,26,1,42
+255,James,Carter,Male,37,Phoenix,IT,Associate,Inactive,83278.82,2023-05-23,1.2,4,9,11
+256,John,Anderson,Female,28,Philadelphia,IT,High School,Inactive,93124.19,2021-07-29,4.3,0,19,72
+257,Patricia,Ramirez,Female,47,Houston,Marketing,Bachelor,Active,115583.44,2022-02-15,2.3,14,9,29
+258,Robert,Gonzalez,Male,32,San Jose,Marketing,Associate,Active,86700.18,2019-10-06,2.6,8,12,26
+259,Mark,Martin,Male,41,Phoenix,Legal,High School,Active,130034.47,2021-11-28,3.4,6,11,18
+260,Jennifer,Rivera,Female,41,Philadelphia,HR,PhD,Active,64919.18,2018-12-23,1.1,12,15,71
+261,Melissa,Scott,Female,29,Los Angeles,HR,High School,Active,36375.05,2022-08-28,4.1,3,5,25
+262,Betty,White,Non-binary,23,San Jose,Engineering,Bachelor,Active,149673.56,2019-02-09,4.6,1,5,11
+263,Lisa,Davis,Male,49,San Diego,Sales,Associate,Inactive,129493.82,2020-03-19,3.0,12,14,22
+264,Daniel,Wilson,Female,24,Phoenix,Marketing,Master,Active,105622.26,2021-06-17,2.0,1,16,52
+265,Kimberly,Walker,Female,48,Los Angeles,Sales,Master,Active,57937.65,2022-12-17,4.2,7,18,2
+266,Matthew,Rivera,Non-binary,58,San Diego,Operations,Master,Active,92775.22,2020-03-06,2.1,1,11,76
+267,Joseph,Johnson,Female,59,New York,Finance,PhD,Active,149954.66,2023-06-18,1.6,15,8,34
+268,Paul,Mitchell,Non-binary,33,Houston,Sales,Master,Active,55251.54,2021-04-28,2.3,11,12,75
+269,Mary,Rivera,Non-binary,34,San Jose,Operations,Associate,Inactive,131220.14,2022-07-18,4.5,7,18,39
+270,Elizabeth,Young,Male,36,Los Angeles,Sales,Associate,Inactive,37291.72,2020-09-05,1.0,14,20,25
+271,William,Perez,Male,59,Philadelphia,Marketing,High School,Active,116040.08,2018-10-18,4.1,33,12,9
+272,Nancy,Rivera,Male,42,San Jose,IT,Bachelor,Active,50691.94,2018-11-19,3.9,13,16,40
+273,Elizabeth,Rivera,Non-binary,46,Houston,Operations,PhD,Active,70284.67,2021-11-11,2.2,5,1,73
+274,Betty,Roberts,Non-binary,36,Chicago,Sales,Bachelor,Inactive,108559.38,2018-08-02,4.7,2,11,9
+275,Jessica,Thompson,Non-binary,62,Chicago,Operations,High School,On Leave,118867.88,2019-11-19,2.8,16,7,31
+276,Kevin,Jones,Male,46,Phoenix,Operations,High School,Active,85395.32,2020-05-09,4.9,13,16,48
+277,Daniel,Wright,Female,36,Los Angeles,IT,PhD,On Leave,53705.5,2018-05-31,4.2,0,10,2
+278,Christopher,Taylor,Female,32,Los Angeles,Engineering,Associate,Active,119178.28,2021-01-25,4.8,1,11,76
+279,Donna,Walker,Non-binary,49,San Antonio,Sales,Associate,Inactive,53066.93,2018-07-27,2.3,6,14,70
+280,Brian,Campbell,Female,25,Phoenix,Finance,Associate,Active,80183.75,2021-01-30,4.4,1,2,46
+281,James,Ramirez,Non-binary,34,Phoenix,Engineering,PhD,Active,46153.49,2019-02-28,1.7,4,3,60
+282,Linda,Martin,Female,56,San Diego,IT,Bachelor,Active,79565.62,2020-01-30,4.5,23,6,57
+283,John,Taylor,Female,58,San Diego,Legal,Associate,Active,42088.53,2022-03-21,3.8,6,3,44
+284,Paul,Clark,Male,48,Dallas,HR,Master,Inactive,146047.19,2021-11-08,4.5,15,19,30
+285,Donald,Martin,Non-binary,58,San Antonio,Engineering,High School,Inactive,138552.33,2022-06-28,3.3,9,4,57
+286,Elizabeth,Hernandez,Male,27,Houston,HR,High School,Active,148652.19,2020-06-10,1.8,5,5,76
+287,Thomas,Lee,Female,57,Los Angeles,Engineering,PhD,Active,72504.58,2019-07-20,3.1,0,20,75
+288,Dorothy,Clark,Male,59,San Antonio,Engineering,Associate,Inactive,102007.86,2023-05-30,4.8,6,19,12
+289,Charles,Wright,Female,53,San Antonio,Operations,Master,On Leave,100782.67,2020-08-26,1.1,17,13,18
+290,Donna,Hill,Female,37,New York,IT,Bachelor,On Leave,40668.46,2020-08-31,4.7,11,1,43
+291,Karen,Martin,Non-binary,30,San Diego,Finance,High School,Active,69555.25,2022-03-04,2.8,5,9,53
+292,Kenneth,Adams,Female,53,Houston,Engineering,Associate,Active,122341.73,2022-11-12,2.5,3,17,20
+293,Robert,Martin,Non-binary,33,Chicago,IT,PhD,Active,57167.8,2022-09-02,1.8,0,8,4
+294,Sandra,Brown,Female,54,Houston,Operations,Bachelor,Active,80648.36,2023-03-06,1.5,1,8,47
+295,Ashley,Hill,Female,44,Chicago,Legal,PhD,Inactive,74588.64,2022-09-12,4.6,22,3,36
+296,Mary,Harris,Non-binary,36,Chicago,Sales,Associate,Active,112934.95,2019-07-06,3.6,8,1,1
+297,Donald,Rodriguez,Male,60,San Jose,Marketing,Associate,Active,127584.84,2019-09-18,3.9,17,14,48
+298,Daniel,Robinson,Female,55,Houston,Finance,Bachelor,On Leave,129795.74,2020-03-24,3.3,0,17,47
+299,Kimberly,Adams,Non-binary,26,Phoenix,Finance,High School,Active,73672.62,2019-07-21,3.6,2,9,38
+300,Richard,Martinez,Non-binary,42,New York,HR,Master,On Leave,113286.91,2022-01-17,1.1,15,10,33
+301,Anthony,Sanchez,Non-binary,43,New York,IT,PhD,Active,118553.24,2019-04-01,3.7,20,16,45
+302,Steven,Martin,Male,52,Dallas,Marketing,Bachelor,Active,49713.58,2019-06-14,3.9,17,6,42
+303,Michelle,Garcia,Male,43,Philadelphia,HR,Bachelor,Active,77743.48,2021-04-14,2.2,3,16,6
+304,George,Nguyen,Male,46,San Diego,Engineering,PhD,Active,95931.43,2020-04-26,1.2,4,5,25
+305,Lisa,Clark,Female,53,Chicago,Legal,Associate,Active,73252.39,2018-12-29,2.3,3,1,57
+306,Sarah,Wilson,Male,30,San Jose,Marketing,Master,Active,105665.17,2021-07-21,2.7,6,16,49
+307,James,Williams,Male,34,Philadelphia,HR,Bachelor,Inactive,37060.35,2018-01-09,3.5,3,8,44
+308,Karen,Rodriguez,Non-binary,32,San Antonio,Engineering,PhD,Active,42508.01,2018-04-04,2.2,4,15,66
+309,Kenneth,King,Non-binary,53,San Antonio,Operations,Associate,Active,76313.85,2019-01-21,1.7,25,1,29
+310,Joseph,Campbell,Non-binary,54,Houston,Marketing,High School,Inactive,54433.25,2020-01-21,3.8,2,13,32
+311,Deborah,Wright,Male,23,San Jose,Sales,High School,On Leave,40547.03,2018-08-26,2.7,1,4,70
+312,Thomas,Walker,Non-binary,48,Houston,Marketing,High School,Active,111091.43,2021-09-18,3.1,19,20,17
+313,Anthony,Miller,Male,34,Phoenix,Engineering,High School,Active,105035.21,2022-05-13,2.1,8,7,45
+314,Amanda,Clark,Male,35,Chicago,Finance,PhD,Active,114143.45,2020-09-11,2.3,0,1,11
+315,Linda,Torres,Male,28,Chicago,Legal,PhD,Active,139049.63,2021-08-12,1.9,2,9,59
+316,Patricia,Miller,Female,42,New York,Marketing,Bachelor,On Leave,83989.45,2018-08-26,1.4,1,1,17
+317,Joshua,Adams,Female,39,Philadelphia,Marketing,Master,Inactive,136024.69,2018-07-10,2.5,10,6,14
+318,Betty,Sanchez,Female,32,Phoenix,Legal,Master,Active,48001.5,2021-11-26,3.9,2,4,53
+319,Emily,Walker,Non-binary,61,Chicago,Legal,Master,Active,38313.87,2021-11-02,4.5,8,16,62
+320,Linda,Clark,Male,42,New York,Legal,Bachelor,On Leave,36421.42,2022-11-14,3.7,18,19,28
+321,Joshua,Perez,Non-binary,44,San Antonio,Engineering,Associate,Active,111326.72,2021-08-06,2.5,17,20,6
+322,James,Adams,Female,26,Dallas,Marketing,Master,Active,121414.45,2019-10-19,2.0,2,2,64
+323,Joseph,Scott,Male,50,San Antonio,IT,High School,Active,127145.05,2020-07-06,1.4,15,15,40
+324,Linda,Young,Female,57,Los Angeles,Sales,Master,Active,98146.36,2022-08-19,1.4,19,17,71
+325,Susan,Adams,Female,51,Philadelphia,Legal,High School,Active,73176.85,2022-04-21,3.5,15,12,57
+326,Linda,Miller,Female,40,New York,HR,Bachelor,On Leave,97984.42,2020-02-05,3.8,1,6,63
+327,William,Rivera,Female,34,Los Angeles,IT,PhD,Active,48885.77,2022-10-12,2.6,7,7,43
+328,Michael,Carter,Non-binary,50,New York,IT,PhD,Active,87599.61,2021-04-21,4.8,4,16,0
+329,Dorothy,Mitchell,Female,54,Dallas,Sales,PhD,Active,124824.37,2023-02-08,1.7,11,5,13
+330,Matthew,Nelson,Female,37,Dallas,Operations,Master,Inactive,66463.53,2023-05-28,2.4,9,15,17
+331,William,Clark,Female,35,Dallas,Finance,PhD,On Leave,58102.24,2021-07-02,3.9,10,12,16
+332,Amanda,Adams,Non-binary,29,Dallas,Marketing,Bachelor,On Leave,122489.13,2021-02-25,2.9,6,18,36
+333,Dorothy,Smith,Female,25,New York,Engineering,Associate,Active,57988.78,2022-03-17,4.1,2,9,18
+334,Patricia,Hall,Non-binary,50,Houston,Finance,High School,Active,46785.2,2022-11-13,3.7,17,8,71
+335,Matthew,Thomas,Female,42,New York,Finance,Master,Active,146070.82,2018-04-21,1.1,8,7,79
+336,Deborah,Lewis,Non-binary,60,Philadelphia,HR,PhD,On Leave,57593.94,2022-01-24,4.9,18,15,22
+337,Carol,Jones,Non-binary,46,Chicago,Marketing,PhD,Active,39672.94,2019-07-26,3.2,4,6,74
+338,Thomas,Smith,Non-binary,31,San Diego,Operations,Associate,Active,141792.25,2021-05-07,1.2,9,10,62
+339,Andrew,Scott,Non-binary,36,Los Angeles,Operations,Bachelor,Inactive,145053.59,2020-12-02,1.3,8,6,53
+340,Paul,Wright,Female,43,Los Angeles,IT,Associate,Active,73072.65,2019-08-25,1.9,19,17,60
+341,Kimberly,Carter,Non-binary,37,Los Angeles,Sales,Bachelor,Active,139017.09,2021-06-10,4.7,7,2,41
+342,Matthew,Davis,Non-binary,55,Phoenix,IT,Bachelor,Active,129542.54,2020-02-07,3.1,32,15,62
+343,John,Jackson,Non-binary,32,Philadelphia,HR,High School,Active,146737.31,2022-05-03,3.2,0,3,26
+344,Joshua,Green,Male,49,San Antonio,HR,Associate,Inactive,109354.53,2023-04-09,1.3,21,5,3
+345,Sandra,Rivera,Male,33,New York,Operations,High School,Active,126334.7,2021-02-16,1.3,3,9,52
+346,Matthew,Lewis,Female,29,San Antonio,IT,High School,Active,96505.95,2021-08-06,3.9,1,19,5
+347,Kevin,Jones,Male,41,Dallas,Operations,Bachelor,On Leave,104755.07,2019-07-31,4.1,14,13,50
+348,Joshua,Johnson,Non-binary,47,Chicago,Legal,Associate,Active,126628.6,2022-10-06,3.2,20,5,38
+349,Carol,Campbell,Non-binary,29,New York,Operations,PhD,Active,39803.91,2021-03-18,3.4,1,10,26
+350,Melissa,Mitchell,Female,32,Houston,Operations,PhD,Active,56159.16,2021-06-17,4.3,3,4,23
+351,Joshua,Torres,Female,40,Dallas,Sales,PhD,Active,112243.8,2019-05-29,1.4,18,16,42
+352,Daniel,Rodriguez,Female,34,Los Angeles,HR,PhD,Active,71545.38,2020-07-11,2.3,10,10,74
+353,Barbara,Torres,Female,42,Philadelphia,Operations,Associate,Active,63310.14,2019-03-30,3.8,20,14,35
+354,Nancy,Rodriguez,Female,41,San Diego,Operations,Master,Active,91001.71,2018-08-11,1.7,19,3,35
+355,William,Wright,Non-binary,26,Phoenix,HR,High School,On Leave,137592.1,2022-10-06,3.0,0,19,74
+356,Betty,Roberts,Non-binary,56,New York,HR,Bachelor,Inactive,89291.95,2022-05-07,1.6,25,8,75
+357,Brian,Jackson,Non-binary,47,San Diego,Marketing,PhD,Active,76844.54,2018-01-22,3.7,25,20,21
+358,Edward,Allen,Male,58,San Diego,Marketing,Associate,Inactive,110832.53,2023-06-05,1.6,30,12,5
+359,Joseph,Carter,Male,36,Houston,Legal,Bachelor,Active,39922.97,2019-02-28,3.1,12,12,49
+360,Donald,Robinson,Non-binary,55,New York,Sales,Bachelor,Active,107860.2,2019-07-15,4.3,16,19,69
+361,Andrew,Lopez,Female,26,San Antonio,IT,PhD,On Leave,94416.23,2020-02-10,4.9,1,17,51
+362,Daniel,Thompson,Non-binary,30,San Diego,Legal,High School,Inactive,85588.35,2019-04-17,1.3,4,7,19
+363,Elizabeth,Hernandez,Non-binary,36,San Jose,Operations,High School,On Leave,82680.57,2019-11-08,3.9,7,16,61
+364,Susan,Nguyen,Male,30,San Antonio,Marketing,Associate,Active,100950.95,2018-11-26,1.5,8,2,73
+365,Barbara,Brown,Male,60,Phoenix,Marketing,PhD,Active,146463.02,2021-07-29,1.1,18,3,27
+366,Mark,Hill,Male,60,San Diego,Legal,Associate,Active,51411.9,2021-04-08,4.3,11,20,65
+367,Thomas,Hernandez,Non-binary,36,San Diego,Operations,PhD,Active,78494.31,2018-09-28,1.4,3,17,64
+368,Carol,Clark,Male,61,San Jose,Marketing,Associate,Active,103978.59,2022-12-03,4.1,32,4,11
+369,Donald,Nelson,Non-binary,49,San Jose,Marketing,High School,On Leave,95035.09,2020-01-29,4.5,22,17,54
+370,Joseph,Walker,Non-binary,49,Philadelphia,IT,PhD,Active,50396.56,2020-09-04,4.1,27,3,36
+371,Kenneth,Wright,Male,22,Phoenix,IT,High School,On Leave,101468.52,2018-08-30,3.1,0,7,40
+372,Anthony,White,Female,38,Chicago,Engineering,PhD,Active,133322.35,2020-05-17,3.3,8,13,26
+373,Anthony,Scott,Female,52,Chicago,Legal,PhD,Inactive,64184.43,2019-09-21,3.3,24,13,17
+374,Joshua,Davis,Non-binary,35,San Diego,HR,Associate,Active,93459.51,2022-05-29,2.4,8,20,6
+375,David,Harris,Male,49,Los Angeles,Sales,Master,Inactive,45136.18,2019-06-23,1.9,2,20,4
+376,Brian,Harris,Non-binary,60,San Jose,IT,PhD,Active,41608.25,2022-05-04,4.3,31,15,1
+377,Richard,Nelson,Male,55,Houston,Finance,PhD,Inactive,115321.72,2021-06-13,1.7,2,12,30
+378,Michelle,Smith,Female,47,Los Angeles,Marketing,Master,Active,81626.86,2019-02-15,3.1,23,3,11
+379,Kimberly,Jackson,Female,34,Philadelphia,Operations,Associate,Inactive,87297.29,2020-04-07,3.3,4,6,52
+380,Steven,Miller,Female,54,Dallas,Engineering,Bachelor,Active,145021.58,2022-11-30,3.2,16,15,48
+381,Andrew,Walker,Female,23,Philadelphia,HR,Master,Inactive,90426.57,2019-06-13,1.3,0,8,40
+382,Anthony,Thompson,Male,47,Phoenix,Sales,Bachelor,Active,112475.26,2022-08-09,2.4,17,6,60
+383,Christopher,Thompson,Female,34,San Jose,HR,Associate,On Leave,92384.92,2019-02-13,1.9,3,9,26
+384,Joseph,Gonzalez,Female,29,San Jose,HR,Associate,Active,140821.63,2021-10-16,4.8,7,20,0
+385,Edward,Wright,Female,53,San Diego,Sales,PhD,Active,138283.94,2022-12-10,4.6,17,16,23
+386,Edward,Allen,Male,25,San Antonio,Finance,PhD,Active,95459.58,2020-05-16,2.9,0,17,44
+387,Betty,Baker,Male,42,San Diego,Marketing,PhD,Active,114259.21,2018-01-25,3.7,12,19,12
+388,Christopher,White,Non-binary,39,Chicago,Finance,Bachelor,Active,89204.72,2021-06-09,2.4,5,16,54
+389,Susan,Clark,Female,33,Philadelphia,Operations,Bachelor,Active,100712.12,2021-03-25,3.7,1,9,30
+390,Kimberly,Ramirez,Male,22,Houston,IT,Associate,Active,55309.84,2020-10-20,1.5,0,16,38
+391,Thomas,Scott,Male,35,San Antonio,Sales,Associate,Active,128589.08,2020-09-02,4.4,1,15,42
+392,Thomas,White,Non-binary,23,Dallas,Operations,Bachelor,Active,82352.5,2019-12-21,4.5,0,19,73
+393,Michelle,Adams,Female,54,Phoenix,Marketing,Bachelor,On Leave,91061.78,2022-02-17,2.8,5,13,78
+394,Charles,Robinson,Non-binary,62,Chicago,Marketing,Bachelor,Active,105415.67,2020-04-08,4.4,4,3,20
+395,Lisa,Anderson,Non-binary,39,Philadelphia,Operations,Bachelor,On Leave,104619.27,2020-03-20,2.1,14,12,75
+396,Dorothy,Lewis,Male,37,Chicago,IT,High School,Active,111132.59,2023-04-11,4.0,2,7,21
+397,Betty,Miller,Female,23,Los Angeles,Engineering,PhD,Active,123657.38,2020-12-09,4.1,0,4,33
+398,Donna,Martinez,Female,40,San Antonio,Engineering,Associate,Active,85963.45,2018-09-16,1.5,5,1,4
+399,Joshua,Thompson,Female,57,San Diego,Operations,PhD,Active,86157.17,2023-06-09,4.8,34,6,75
+400,Kenneth,Robinson,Non-binary,44,Dallas,IT,PhD,Active,90389.94,2019-04-11,4.2,14,10,46
+401,Anthony,Taylor,Male,30,Phoenix,Marketing,High School,Inactive,74546.77,2020-08-18,3.1,7,16,38
+402,James,Roberts,Non-binary,57,Phoenix,IT,Associate,Active,77969.05,2020-04-23,4.5,27,13,31
+403,David,Rivera,Male,49,San Antonio,IT,Bachelor,Active,106912.15,2020-11-24,4.1,19,9,36
+404,Michelle,Mitchell,Male,30,San Antonio,Finance,High School,Active,68303.46,2021-07-28,2.8,7,9,79
+405,Ashley,Gonzalez,Male,23,New York,Operations,High School,Inactive,56382.82,2018-07-29,2.1,0,15,1
+406,Joseph,Garcia,Female,48,New York,Marketing,Associate,Active,70831.32,2022-06-26,3.0,11,15,4
+407,Lisa,Garcia,Female,56,New York,Marketing,Master,Active,89066.88,2019-01-29,4.6,16,13,1
+408,Linda,Roberts,Female,24,San Antonio,HR,Associate,On Leave,57905.69,2022-02-14,4.1,2,7,60
+409,Matthew,Baker,Male,57,Philadelphia,Finance,High School,On Leave,94906.52,2019-06-03,2.9,19,7,46
+410,Patricia,Nelson,Male,22,Los Angeles,HR,Master,Active,54246.44,2019-07-20,3.3,0,8,1
+411,John,Nguyen,Male,37,San Jose,Legal,Bachelor,Active,53135.32,2018-07-07,3.7,10,2,7
+412,Daniel,Adams,Male,36,Dallas,Marketing,Associate,Active,71425.05,2021-02-17,4.2,12,12,56
+413,Brian,Gonzalez,Female,24,San Antonio,Sales,Associate,Active,90809.75,2020-06-15,3.2,2,16,24
+414,Andrew,Lopez,Non-binary,60,Philadelphia,Operations,Master,Active,140164.51,2021-02-09,1.6,33,5,57
+415,Charles,Taylor,Male,33,San Diego,Operations,PhD,Active,136537.22,2021-06-23,4.4,9,8,41
+416,Brian,Jones,Non-binary,31,Houston,IT,Master,Inactive,105499.51,2019-10-23,2.6,5,4,12
+417,Dorothy,Nelson,Male,34,New York,Engineering,Associate,Active,47311.34,2019-01-28,1.4,9,13,62
+418,Dorothy,Flores,Female,26,New York,Finance,Associate,Inactive,36504.9,2023-03-02,1.8,3,3,59
+419,George,Brown,Non-binary,25,Dallas,Operations,Master,Active,129718.94,2019-06-29,3.1,0,10,9
+420,Susan,King,Non-binary,46,Los Angeles,Engineering,Associate,Inactive,56787.95,2020-12-13,3.6,18,6,71
+421,Melissa,Scott,Non-binary,51,Los Angeles,IT,PhD,Active,115793.3,2020-05-24,4.5,5,6,70
+422,Betty,Allen,Non-binary,44,Chicago,Operations,PhD,Active,138785.77,2021-01-31,5.0,10,12,52
+423,Edward,Green,Non-binary,56,Philadelphia,IT,Associate,Inactive,59601.74,2022-04-18,3.2,16,12,57
+424,Mark,Sanchez,Female,55,New York,Sales,PhD,Active,50534.86,2022-12-29,2.2,19,8,27
+425,Christopher,Johnson,Non-binary,58,Dallas,Finance,PhD,Inactive,52792.2,2018-03-19,2.8,9,5,33
+426,Nancy,Nguyen,Female,58,Houston,HR,Bachelor,Active,80976.8,2023-02-23,1.9,4,11,61
+427,Elizabeth,Young,Non-binary,58,San Jose,Engineering,Bachelor,Active,78877.8,2022-05-17,1.2,21,12,55
+428,Anthony,Davis,Male,41,San Jose,HR,Master,Active,95304.09,2019-10-16,3.2,4,11,64
+429,Kevin,Anderson,Non-binary,60,New York,Marketing,Master,Active,101154.31,2018-07-04,1.9,18,13,18
+430,William,Perez,Non-binary,47,San Diego,Engineering,High School,Inactive,65194.17,2020-03-27,3.0,24,5,17
+431,Donald,Scott,Female,57,San Diego,HR,PhD,Active,105839.64,2022-02-15,3.1,15,3,34
+432,Deborah,Ramirez,Male,48,San Jose,Operations,High School,On Leave,83707.17,2019-12-15,1.8,11,20,3
+433,Deborah,Martin,Non-binary,31,Philadelphia,Marketing,Master,Inactive,85653.29,2023-03-08,4.3,3,12,19
+434,Edward,Campbell,Non-binary,61,Los Angeles,Engineering,High School,Active,141573.91,2022-11-15,4.3,18,1,43
+435,Kevin,Davis,Female,35,San Diego,Finance,High School,Active,120101.49,2019-03-10,1.8,8,9,70
+436,Donald,Flores,Female,55,New York,Marketing,PhD,On Leave,40000.43,2018-12-15,1.2,12,20,34
+437,Patricia,Robinson,Female,45,Los Angeles,Sales,Bachelor,On Leave,134392.46,2018-02-09,2.2,20,13,29
+438,Matthew,Allen,Female,27,Philadelphia,Engineering,PhD,Inactive,56438.0,2020-10-22,4.9,4,1,5
+439,Jessica,King,Female,32,Philadelphia,Finance,Master,On Leave,37112.81,2021-11-02,2.4,10,10,30
+440,Steven,Moore,Female,39,Phoenix,Sales,High School,Inactive,60942.01,2019-12-01,4.6,4,3,48
+441,Dorothy,Baker,Male,49,San Antonio,HR,PhD,Active,146611.77,2023-02-07,3.4,14,18,16
+442,Susan,Adams,Non-binary,41,San Jose,Marketing,Associate,Active,114181.19,2023-01-15,3.1,4,14,18
+443,Michelle,Torres,Male,29,Philadelphia,Marketing,PhD,Inactive,56175.55,2022-09-16,4.5,0,11,52
+444,Anthony,Martin,Male,30,Phoenix,Legal,Associate,Active,56245.85,2022-04-11,4.9,4,20,72
+445,Donna,Anderson,Non-binary,27,Houston,HR,High School,Active,114136.25,2020-09-03,1.5,4,16,47
+446,Elizabeth,Harris,Male,36,San Diego,Legal,Associate,Active,38706.4,2022-04-15,4.9,14,9,52
+447,Joseph,Mitchell,Male,61,Houston,HR,Associate,Active,91343.43,2019-10-28,4.5,15,14,51
+448,Deborah,Williams,Female,58,Philadelphia,IT,PhD,On Leave,103287.67,2020-12-11,3.6,2,17,13
+449,Mark,Robinson,Non-binary,24,Houston,Sales,PhD,Active,99135.61,2020-11-23,4.1,0,7,37
+450,Mark,Sanchez,Female,40,Phoenix,Finance,Associate,Active,105510.44,2018-04-22,3.8,4,15,57
+451,Jennifer,Campbell,Non-binary,47,Chicago,Engineering,PhD,Active,82559.32,2020-07-12,1.1,14,19,25
+452,Sandra,Garcia,Non-binary,29,Philadelphia,Finance,Associate,On Leave,45486.99,2021-12-17,2.8,5,3,67
+453,Amanda,Harris,Non-binary,32,San Antonio,Marketing,Master,Active,139909.07,2021-03-04,4.5,2,6,18
+454,Elizabeth,Roberts,Female,50,San Antonio,Sales,Bachelor,On Leave,68209.76,2019-01-06,1.5,4,7,0
+455,Donna,Carter,Female,56,New York,Finance,Master,Active,127857.27,2021-05-30,4.5,15,7,75
+456,Joshua,Walker,Female,60,San Antonio,Legal,High School,Inactive,35755.9,2022-12-12,3.2,35,7,6
+457,Elizabeth,Martinez,Male,58,Philadelphia,Sales,Associate,Active,131371.66,2019-09-04,2.3,5,2,13
+458,Anthony,Lopez,Non-binary,57,Phoenix,Marketing,PhD,Inactive,55403.22,2020-07-21,4.0,23,2,11
+459,Deborah,Martin,Female,57,Philadelphia,Operations,High School,Active,42466.47,2020-08-22,1.5,17,11,67
+460,Anthony,King,Non-binary,58,Houston,HR,High School,Active,118918.78,2021-07-12,3.1,5,16,77
+461,Amanda,Jackson,Female,58,San Jose,IT,Bachelor,Inactive,149427.8,2019-12-26,4.7,36,16,66
+462,Brian,Green,Male,40,San Diego,Legal,PhD,Active,147614.63,2018-01-04,1.5,14,4,26
+463,Donna,Clark,Female,62,New York,IT,Bachelor,Inactive,59418.86,2021-08-04,1.8,18,9,8
+464,Karen,Martin,Male,47,New York,Operations,Bachelor,Active,118305.61,2021-06-15,4.8,5,7,42
+465,Lisa,Baker,Male,31,San Diego,Legal,Associate,Active,107128.06,2023-01-01,4.5,5,15,52
+466,Melissa,Brown,Non-binary,56,San Jose,Finance,Bachelor,Inactive,37152.62,2021-03-28,3.7,22,3,19
+467,Sarah,Johnson,Non-binary,58,San Antonio,Operations,PhD,Active,104654.25,2019-01-19,3.4,19,11,4
+468,Sarah,Clark,Male,41,San Diego,Engineering,Bachelor,Active,59856.09,2019-09-12,1.7,11,2,25
+469,Jennifer,Lewis,Non-binary,43,San Diego,Sales,Associate,Active,141218.23,2022-02-09,4.5,9,11,18
+470,Deborah,Miller,Non-binary,46,Houston,Marketing,High School,Active,117072.9,2020-12-05,1.5,9,2,76
+471,Jennifer,Perez,Male,41,New York,Legal,PhD,On Leave,37585.23,2022-04-03,2.2,6,11,25
+472,Richard,Jackson,Female,29,Dallas,Finance,Master,On Leave,66355.23,2018-11-19,2.1,0,20,71
+473,Steven,Miller,Female,39,Dallas,HR,PhD,Active,51279.04,2021-12-13,4.2,7,6,9
+474,Karen,Flores,Female,23,Dallas,Operations,High School,Active,89134.59,2021-10-15,1.2,1,2,11
+475,Dorothy,Sanchez,Non-binary,44,San Jose,Marketing,Master,Inactive,70930.67,2022-08-02,1.8,21,18,10
+476,Edward,Carter,Male,51,San Jose,Legal,High School,On Leave,46185.24,2019-09-28,3.7,22,15,60
+477,Joseph,Anderson,Female,33,San Jose,Marketing,Bachelor,Active,115455.68,2021-09-24,2.3,5,15,62
+478,Mary,Jones,Female,32,Los Angeles,Legal,Master,Active,67459.6,2019-12-15,3.4,2,17,13
+479,Betty,Rivera,Non-binary,56,Philadelphia,Engineering,High School,Active,88012.11,2021-04-24,2.7,15,18,20
+480,Donald,Harris,Male,49,Philadelphia,Engineering,PhD,Active,100229.29,2019-12-02,3.2,7,6,9
+481,Melissa,Rivera,Non-binary,42,Los Angeles,Legal,PhD,Active,98835.09,2022-08-11,2.8,9,13,8
+482,Kenneth,Miller,Female,35,Philadelphia,IT,High School,Active,128958.86,2022-12-23,3.3,12,1,18
+483,Joshua,Martinez,Female,58,Dallas,Legal,Master,Inactive,86423.37,2019-02-26,3.7,20,10,72
+484,Carol,Martin,Male,61,Philadelphia,IT,PhD,Active,148438.49,2020-04-07,4.4,18,2,47
+485,Kimberly,Brown,Female,23,Dallas,Sales,High School,Active,62052.73,2021-12-09,3.4,1,13,51
+486,Matthew,Ramirez,Female,57,Chicago,HR,Associate,Active,79228.43,2023-03-09,2.4,26,5,36
+487,Joshua,Rodriguez,Male,53,New York,Marketing,High School,Active,110661.57,2023-06-20,5.0,5,5,53
+488,Sandra,Hall,Male,49,San Jose,IT,Master,Inactive,98485.75,2020-07-10,2.5,7,6,54
+489,Kenneth,Smith,Non-binary,48,Houston,Legal,PhD,Active,141554.91,2021-03-26,2.5,1,19,61
+490,Amanda,White,Female,55,San Jose,Engineering,High School,Active,148111.6,2022-03-18,4.1,29,17,10
+491,Dorothy,Flores,Female,62,Houston,Engineering,High School,On Leave,97007.68,2021-04-02,2.2,3,11,68
+492,Deborah,Smith,Non-binary,43,San Diego,Legal,Master,Inactive,83416.85,2023-05-22,4.9,9,10,21
+493,John,Hall,Female,52,San Jose,Finance,High School,On Leave,101486.23,2021-03-19,1.2,9,20,3
+494,Charles,Young,Non-binary,38,Chicago,Engineering,High School,Active,50241.96,2019-07-30,2.1,8,1,14
+495,Kenneth,Lopez,Female,37,San Diego,Marketing,Associate,Active,90765.63,2022-06-26,3.1,1,11,10
+496,Barbara,Hill,Female,50,San Diego,Marketing,Master,Active,118489.9,2018-12-09,1.8,23,12,6
+497,Michelle,Taylor,Male,52,New York,Engineering,Master,Active,69657.22,2022-03-09,4.8,29,18,29
+498,Matthew,Baker,Female,49,San Diego,IT,Associate,Inactive,36364.25,2023-03-14,4.2,12,11,67
+499,Carol,Williams,Non-binary,61,Dallas,Engineering,Bachelor,Active,140574.83,2022-10-24,2.1,17,9,12
+500,Thomas,Adams,Non-binary,59,San Diego,IT,Associate,On Leave,123607.19,2020-11-30,2.3,11,11,70
+501,James,Baker,Male,55,Los Angeles,Sales,Master,Active,46949.34,2020-07-02,2.4,18,9,24
+502,John,Johnson,Non-binary,62,New York,Engineering,Associate,Inactive,49005.87,2023-05-16,1.5,38,5,48
+503,Joshua,Carter,Non-binary,40,Los Angeles,Marketing,Associate,Active,88699.89,2023-04-02,1.3,14,9,54
+504,Kevin,Nelson,Male,25,Phoenix,Operations,High School,Active,79021.89,2019-11-13,5.0,2,9,22
+505,Mark,Jones,Non-binary,53,Houston,Legal,Master,Active,47469.5,2021-01-12,4.1,13,20,13
+506,Mark,Rivera,Male,58,Los Angeles,Finance,High School,Active,118667.69,2022-05-11,2.8,31,5,0
+507,John,Nelson,Male,58,Phoenix,IT,Bachelor,Active,35425.93,2021-12-20,4.8,31,16,55
+508,Betty,Campbell,Male,52,Dallas,Engineering,High School,Active,48938.42,2021-01-01,4.7,11,11,38
+509,Betty,Brown,Non-binary,51,Philadelphia,Engineering,Bachelor,Active,122452.1,2019-08-17,3.6,5,18,5
+510,Matthew,Nelson,Non-binary,62,Phoenix,HR,Master,Active,114216.9,2020-09-23,1.3,40,15,24
+511,William,Williams,Non-binary,53,New York,HR,PhD,Active,79708.27,2022-06-12,3.2,19,16,68
+512,Mark,Johnson,Male,24,Philadelphia,Sales,Bachelor,On Leave,81633.4,2019-03-10,4.2,2,17,58
+513,Carol,Wright,Male,31,San Jose,Marketing,High School,Active,91222.89,2018-02-09,2.9,9,2,31
+514,Kevin,Adams,Male,28,New York,Marketing,High School,Active,87461.23,2018-12-16,4.3,0,4,14
+515,Ashley,Hill,Male,47,Los Angeles,HR,Master,Active,72287.02,2023-06-22,3.7,17,5,41
+516,Susan,Carter,Male,29,San Jose,Sales,Bachelor,Active,66497.74,2022-04-01,2.7,5,18,21
+517,Mark,Thomas,Male,32,Chicago,Sales,PhD,Active,36797.49,2020-09-24,1.3,0,6,11
+518,Amanda,Adams,Non-binary,30,San Antonio,Finance,Master,On Leave,58708.43,2021-08-03,2.1,7,14,30
+519,Elizabeth,Flores,Male,27,San Jose,Sales,Master,Inactive,107127.04,2022-05-22,2.2,3,1,71
+520,Jessica,Gonzalez,Male,56,Dallas,Engineering,PhD,Active,93367.19,2020-08-08,4.1,13,9,6
+521,Richard,Davis,Female,24,San Diego,Marketing,Associate,Active,41213.18,2020-01-16,2.1,1,9,42
+522,Donna,Carter,Male,33,New York,Legal,High School,Inactive,53175.25,2018-03-01,2.9,1,3,30
+523,Brian,Lewis,Male,29,San Antonio,Operations,Bachelor,Active,72505.21,2018-07-20,1.9,6,7,48
+524,Joseph,Jones,Female,31,San Jose,Legal,High School,Active,59858.99,2021-06-02,2.8,6,12,17
+525,Sandra,Campbell,Female,30,Philadelphia,HR,Associate,Active,38690.88,2021-03-10,1.2,2,4,59
+526,Sandra,Clark,Male,32,Philadelphia,Marketing,Bachelor,Inactive,125797.9,2021-07-30,4.8,2,19,70
+527,Joseph,Garcia,Female,52,Dallas,IT,Associate,Inactive,131253.74,2019-07-26,1.1,13,8,31
+528,Christopher,Ramirez,Male,48,San Jose,HR,PhD,Active,147721.16,2018-03-24,5.0,23,17,4
+529,Dorothy,King,Non-binary,53,San Diego,IT,High School,Active,62658.82,2021-02-17,4.0,26,7,16
+530,Daniel,Jackson,Male,41,Los Angeles,HR,Master,On Leave,53607.33,2020-07-29,4.4,18,1,58
+531,Sandra,Roberts,Male,51,San Antonio,Marketing,Bachelor,On Leave,115948.74,2018-01-03,4.4,2,13,42
+532,Dorothy,Williams,Female,58,San Antonio,Finance,PhD,Inactive,126365.06,2022-06-02,3.7,21,2,65
+533,Carol,White,Female,61,Los Angeles,Sales,Bachelor,Active,39700.55,2020-01-21,1.7,35,3,71
+534,Amanda,Roberts,Female,29,Chicago,HR,Associate,Inactive,109639.42,2022-02-19,4.8,3,8,41
+535,Daniel,Moore,Male,44,Phoenix,IT,High School,Active,87027.22,2020-10-23,3.1,3,16,68
+536,Carol,Wright,Non-binary,26,San Diego,Finance,Bachelor,On Leave,56660.66,2022-12-16,2.8,0,13,22
+537,Charles,Jones,Female,31,Chicago,Engineering,High School,On Leave,92077.8,2022-11-27,1.8,0,10,53
+538,Carol,Wright,Female,23,San Diego,Marketing,Master,Active,68524.43,2018-05-09,1.1,0,17,42
+539,Anthony,Nguyen,Female,55,Philadelphia,Operations,PhD,On Leave,131819.41,2020-06-30,2.8,8,10,21
+540,Thomas,Anderson,Female,44,Philadelphia,Legal,High School,Active,67703.93,2023-05-13,1.7,5,18,36
+541,Elizabeth,Lopez,Male,42,Chicago,Marketing,High School,Active,101070.39,2020-06-21,2.0,5,7,71
+542,Amanda,Williams,Male,56,Philadelphia,Operations,Bachelor,Active,147178.55,2020-12-28,2.2,1,13,63
+543,Deborah,Martinez,Male,56,Philadelphia,Legal,High School,On Leave,147194.12,2019-11-10,3.6,18,16,37
+544,Edward,Torres,Non-binary,29,San Jose,Marketing,Master,Active,119138.66,2023-01-18,1.2,1,10,3
+545,Betty,Flores,Female,25,San Diego,HR,High School,Active,104937.39,2019-02-04,3.3,1,9,25
+546,Mary,Garcia,Non-binary,53,Los Angeles,Legal,Master,Active,71542.15,2021-05-24,3.0,3,12,50
+547,Barbara,Rivera,Female,40,Philadelphia,IT,Bachelor,Active,74665.82,2019-09-23,4.9,17,3,27
+548,Brian,Lewis,Female,49,San Diego,IT,Associate,On Leave,118789.63,2020-04-28,1.6,18,20,11
+549,Barbara,Wilson,Non-binary,59,San Diego,Finance,Bachelor,Active,121953.12,2018-07-01,1.0,17,14,22
+550,Kimberly,Robinson,Male,57,Houston,Marketing,Master,Active,91417.35,2022-08-13,4.3,19,16,71
+551,Melissa,Robinson,Male,41,New York,HR,Associate,Active,144943.06,2022-09-05,3.5,3,10,53
+552,Elizabeth,Young,Male,26,New York,HR,Bachelor,Active,103872.5,2020-01-11,3.3,4,14,33
+553,George,Baker,Female,58,Los Angeles,Legal,PhD,On Leave,37017.68,2019-06-16,1.7,3,5,40
+554,Sandra,Hall,Male,45,Philadelphia,Marketing,High School,Active,83244.11,2023-02-11,4.8,1,10,37
+555,Dorothy,Green,Male,60,Dallas,Engineering,Associate,Active,121552.28,2021-01-18,2.3,20,10,34
+556,Carol,Hall,Non-binary,31,Los Angeles,Operations,PhD,Active,36483.23,2020-11-27,2.1,7,14,43
+557,David,Miller,Non-binary,57,Chicago,HR,Associate,Active,105544.26,2022-08-30,4.8,34,18,14
+558,Anthony,Robinson,Male,44,Los Angeles,Engineering,High School,Active,70830.95,2020-01-13,1.6,14,20,66
+559,Edward,Perez,Male,30,Phoenix,Marketing,High School,Active,133533.75,2018-10-19,3.8,4,5,26
+560,William,Garcia,Male,49,Los Angeles,IT,High School,Active,39889.45,2018-08-09,1.1,21,17,75
+561,Patricia,Walker,Male,22,Phoenix,Engineering,High School,Active,121773.28,2022-05-22,1.5,0,19,25
+562,Elizabeth,Nelson,Male,39,New York,Operations,Associate,On Leave,144111.03,2019-12-14,2.4,16,20,30
+563,Steven,Torres,Non-binary,35,Los Angeles,Engineering,High School,Inactive,117318.34,2023-05-29,2.1,12,18,0
+564,Brian,Miller,Non-binary,59,Dallas,HR,Master,Active,56289.46,2021-10-11,4.8,11,12,48
+565,Dorothy,Wilson,Male,51,San Antonio,HR,Bachelor,Active,47686.36,2018-10-06,3.0,11,10,71
+566,Brian,Williams,Female,40,Philadelphia,Engineering,High School,Active,87548.76,2022-02-16,2.2,14,8,70
+567,Anthony,Jackson,Male,45,Houston,IT,Master,On Leave,55619.19,2021-10-12,3.0,3,13,56
+568,Dorothy,Nelson,Male,59,Los Angeles,Engineering,Master,Active,147420.65,2022-02-27,4.7,10,3,46
+569,Richard,Perez,Female,49,San Jose,HR,High School,Active,118398.06,2019-07-25,4.1,24,19,75
+570,Sarah,Carter,Female,53,Philadelphia,IT,PhD,Active,93812.67,2018-10-29,4.1,6,4,32
+571,Ashley,Young,Male,25,Chicago,HR,High School,On Leave,130485.93,2020-10-17,3.7,1,13,77
+572,Carol,Lee,Non-binary,26,Phoenix,Marketing,PhD,Active,111024.27,2020-11-30,4.1,3,7,37
+573,Joshua,Young,Female,56,Dallas,Legal,PhD,Active,97861.3,2023-05-05,4.1,27,4,49
+574,Mark,Lee,Female,33,San Diego,IT,High School,Active,99016.65,2022-10-29,4.1,11,6,62
+575,Dorothy,Rodriguez,Female,53,San Antonio,Finance,High School,Inactive,110909.04,2021-11-04,3.2,30,16,71
+576,David,Allen,Female,46,San Antonio,Sales,Master,Inactive,105948.06,2019-12-24,4.1,9,11,7
+577,Mary,Nguyen,Female,59,Chicago,Sales,Bachelor,On Leave,38093.48,2022-12-31,3.5,24,4,54
+578,Daniel,Thompson,Male,37,Philadelphia,IT,Associate,Active,109529.52,2021-04-28,1.3,2,10,14
+579,Lisa,Hernandez,Female,49,Dallas,Sales,High School,Active,100325.68,2023-01-21,2.7,0,16,75
+580,Mary,Lee,Female,28,San Jose,IT,Bachelor,Inactive,127957.56,2018-07-24,3.8,1,11,63
+581,Steven,Carter,Non-binary,49,Chicago,Operations,Bachelor,Active,58202.24,2021-07-25,4.4,25,3,68
+582,Susan,Jackson,Female,36,New York,Finance,PhD,Active,106825.81,2023-05-16,1.4,13,19,12
+583,Emily,Perez,Non-binary,49,Los Angeles,Finance,PhD,Active,59120.0,2022-06-18,1.3,26,10,64
+584,Karen,Ramirez,Female,61,Houston,Operations,Master,Active,94267.46,2021-10-07,4.1,11,1,80
+585,Amanda,King,Female,51,San Jose,Marketing,Associate,On Leave,65812.63,2021-07-30,3.1,19,14,72
+586,Brian,Green,Male,31,Dallas,Sales,Bachelor,Active,62643.0,2022-03-09,3.7,4,14,52
+587,Christopher,Jones,Female,32,San Antonio,HR,Bachelor,On Leave,64491.36,2021-05-16,1.9,3,4,19
+588,Richard,Johnson,Female,49,Phoenix,HR,Master,Inactive,83532.2,2023-01-29,1.1,5,9,17
+589,Mary,Taylor,Male,53,Dallas,Finance,High School,On Leave,124956.88,2018-04-24,4.4,5,11,77
+590,Karen,Jones,Non-binary,30,Philadelphia,IT,High School,Active,62144.73,2021-03-15,3.9,1,17,74
+591,Deborah,King,Male,29,San Diego,Finance,Associate,Inactive,123916.95,2019-10-04,2.3,6,8,54
+592,Susan,Martinez,Male,48,Chicago,Engineering,Bachelor,Active,64245.18,2021-04-22,1.2,17,12,14
+593,Christopher,Wright,Non-binary,31,San Diego,IT,Associate,Active,76744.77,2022-01-05,2.5,4,1,77
+594,John,Mitchell,Female,41,Houston,Sales,PhD,Active,108479.14,2021-12-05,2.5,3,18,30
+595,Mark,Harris,Female,37,San Antonio,Sales,Bachelor,Active,69203.63,2022-10-27,4.6,14,11,52
+596,John,Moore,Female,49,San Diego,Engineering,Master,Active,135827.54,2022-08-07,1.4,5,9,64
+597,Robert,Thompson,Non-binary,42,San Jose,IT,PhD,On Leave,87125.1,2018-02-26,4.0,20,6,80
+598,Mark,Adams,Female,41,New York,Marketing,Associate,On Leave,71078.01,2018-06-18,1.4,7,17,16
+599,Kenneth,Baker,Female,30,Philadelphia,IT,Master,On Leave,64978.19,2021-11-08,3.4,5,10,25
+600,Jennifer,Clark,Female,36,Chicago,Operations,Master,Inactive,37384.48,2018-02-17,4.7,10,20,80
